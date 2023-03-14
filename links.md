@@ -24,7 +24,7 @@ permalink: LINKS/
 5. [VIM - CheatSheet](https://vim.rtorr.com/)<br>
     The first week of OS class got me interested in VIM since it was introduced, although not a lot. VIM itself is a very interesting editor and with it comes a great utilities that come in the form of weird commands, thus this cheatsheet really did help me in introducing for the first time what VIM is capable of.
 6. [Grep Vs Sed Vs Awk](https://www.linode.com/docs/guides/differences-between-grep-sed-awk/)<br>
-    Another little link I found while scavenging for OS 222 materials for week 1. This link is very helpful if you want to know the differences of grep, sed, and awk. The link itself is a documentation but I found it pretty easy to understand complete with examples and easy to understand explanations.
+    Another little link I found while scavenging for OS 231 materials for week 1. This link is very helpful if you want to know the differences of grep, sed, and awk. The link itself is a documentation but I found it pretty easy to understand complete with examples and easy to understand explanations.
 <br>
 
 ## Week 2
